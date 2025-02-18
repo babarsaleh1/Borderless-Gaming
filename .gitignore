@@ -110,3 +110,4 @@ UpgradeLog*.XML
 
 .vs/
 Installers/*setup.exe
+Generated_Code #added for RIA/Silverlight projects.updated
